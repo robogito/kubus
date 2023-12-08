@@ -6,4 +6,4 @@ Anmerkungen zum Buchungssystem
 |`Kurs`|ja|wie Zeitraum|ja|
 |`Karte`|ja/nein|wie Zeitraum/ohne|nein|
 |`Vermietung`|ja/nein|Stunden|nein|
-|`Abo`|nein|3/6/12 Monate|nein|
+|`Abo`|nein|Monate|nein|
