@@ -1,9 +1,9 @@
 # kubus
 Anmerkungen zum Buchungssystem
-## Unsere Produkte
-|Produktname|Laufzeit|Leitung|
-|-----------|--------|-------|
-|`Kurs`|ja|ja|
-|`Karte`|ja/nein|nein|
-|`Vermietung`|ja|nein|
-|`Abo`|nein|nein|
+### Unsere Produkte
+|Produktname|Zeitraum|Laufzeit|Leitung|
+|-----------|--------|--------|-------|
+|`Kurs`|ja|wie Zeitraum|ja|
+|`Karte`|ja/nein|wie Zeitraum/ohne|nein|
+|`Vermietung`|ja/nein|Stunden|nein|
+|`Abo`|nein|3/6/12 Monate|nein|
