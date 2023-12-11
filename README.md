@@ -1,5 +1,7 @@
 # kubus
-Anmerkungen zum Buchungssystem
+Doku zum Kurs-Buchungssystem
+
+Anforderungen, Vorschläge und Fehler sind unter [Issues](https://github.com/robogito/kubus/issues) zu finden.  
 ### Unsere Produkte
 |Produktname|Zeitraum|Laufzeit|Leitung|
 |-----------|--------|--------|-------|
