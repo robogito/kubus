@@ -4,7 +4,9 @@
 Wir wollen eine Web-Anwendung etwickeln, mit der wir unser Angebot zusammen mit Kursleitern und Teilnehmern gestalten und organisieren können. Der Kursleter kann seine Kurse verwalten und mit uns und Teilnehmern kommunizieren. Der Teilnehmer kann Angebote buchen und bewerten, er kann sich einen Sportpartner finden und fühlt sich jederzeit informiert. 
 
 ### Produktidee
-Das alte Produkt erfüllt die Anforderungen und Möglichkeiten des heutigen Tages nicht mehr, wurde für inzwischen veraltete Prozesse und Medien konzipiert und ist nicht benutzerfreundlich. Das neue Produkt soll ein modernes, benutzerfreundliches System werden, dass Vorstellungen aller Benutzergruppen erfüllt und Zukunftssicherheit bietet. Das Produkt soll am PC im Browser nutzbar sein, aber auch Schnittstellen für andere Systeme, Smartphone- und Tablet-Apps bieten. 
+Das alte Produkt erfüllt die Anforderungen und Möglichkeiten des heutigen Tages nicht mehr, wurde für inzwischen veraltete Prozesse und Medien konzipiert und ist nicht benutzerfreundlich.
+
+Das neue Produkt soll ein modernes, benutzerfreundliches System werden, dass Vorstellungen aller Benutzergruppen erfüllt, aktuelle Prozesse abbildet, Routienaufgaben automatisiert und Zukunftssicherheit bietet. Das Produkt soll mehrere Sprachen unterstützen, am PC im Browser optimal nutzbar sein, aber auch Schnittstellen für andere Systeme, Smartphone- und Tablet-Apps bieten. 
 
 ### Benutzer
 - Admin
@@ -12,6 +14,23 @@ Das alte Produkt erfüllt die Anforderungen und Möglichkeiten des heutigen Tage
 - Kursleiter
 - Teilnehmer
 - Gast
+
+### Systemaufbau
+- Benutzerverwaltung
+- Einstellungen
+- Einrichtungen (Sportstätten)
+- Belegungspläne der Einrichtungen
+- Produktkategorien (Sportarten)
+- Kurse
+- Kursleiter
+- Verträge & Aufträge der Kursleiter
+- Teilnehmer
+- Abos
+- Vermietungen
+- Finanzen
+- Berichte
+- Sportpartnerbörse
+- Vorlagenverwaltung (E-Mails, druckbare Dokumente)
 
 ### Funktion
 Kubus soll eine webbasiertes System für die Organisation, Verwaltung und Verkauf von Sportangeboten für Sporteinrichtungen werden. Die Sporteinrichtung kann Sportstätten, Kursleter, Kurse, Abos und Vermietungen anlegen, organisieren und verwalten. Die Sporteinrichtung hat Zugriff auf Teilnehmer- und Finanzdaten, Statistiken und Angebotsbewertungen, die während der Nutzung des Systems entstehen. Die Organisation des Kursangebots erfolgt zusammen mit den Kursleitern unter Berücksichtigung der Belegung der Sportstätten und definierter Zeiträume. 
