@@ -1,7 +1,7 @@
 ## Produktkonzept
 
 ### Vision
-Wir wollen eine Web-Anwendung etwickeln, mit der wir unser Angebot zusammen mit Kursleitern und Teilnehmern gestalten und organisieren können. Der Kursleter kann seine Kurse verwalten und mit uns und Teilnehmern kommunizieren. Der Teilnehmer kann Angebote buchen und bewerten, er kann sich einen Sportpartner finden und fühlt sich jederzeit informiert. 
+Wir wollen eine nutzerfreundliche Web-Anwendung etwickeln, mit der wir unser Angebot zusammen mit Kursleitern und Teilnehmern gestalten und organisieren können. Der Kursleter kann seine Kurse verwalten und mit uns und Teilnehmern kommunizieren. Der Teilnehmer kann Angebote buchen und bewerten, er kann sich einen Sportpartner finden und fühlt sich jederzeit informiert. 
 
 ### Produktidee
 Das alte Produkt erfüllt die Anforderungen und Möglichkeiten des heutigen Tages nicht mehr, wurde für inzwischen veraltete Prozesse und Medien konzipiert und ist nicht benutzerfreundlich.
