@@ -23,7 +23,7 @@ Das neue Produkt soll ein modernes, benutzerfreundliches System werden, dass Vor
 - Produktkategorien (Sportarten)
 - Kurse
 - Kursleiter
-- Verträge & Aufträge der Kursleiter
+- Verträge & Aufträge, Stundenabrechnungen der Kursleiter
 - Teilnehmer
 - Abos
 - Vermietungen
