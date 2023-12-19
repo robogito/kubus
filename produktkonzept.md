@@ -12,6 +12,7 @@ Das neue Produkt soll ein modernes, benutzerfreundliches System werden, dass Vor
 - Admin
 - Manager
 - Kursleiter
+- Agent (Aufsicht)
 - Teilnehmer
 - Gast
 
