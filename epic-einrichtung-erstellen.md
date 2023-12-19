@@ -5,5 +5,14 @@ Als Manager möchte ich eine Einrichtung erstellen, damit ich mein Sportangebot 
 - Als Manager möchte ich eine Liste der Standorte anzeigen
 - Als Manager möchte ich einem Standort, Gebäude oder Raum eine Zugangskontrolle zuordnen
 
-###Standort
-Das
+### Standort
+**Pflicht**
+- Straße
+- Nr.
+- Stadt
+- PLZ
+- Geo-Kartendaten
+
+**Option**
+- Bezeichnung
+- Telefon
