@@ -1,4 +1,4 @@
-Als Manager möchte ich eine Einrichtung erstellen, damit ich mein Sportangebot planen und verkaufen kann
+## Epic: Als Manager möchte ich eine Einrichtung erstellen, damit ich mein Sportangebot planen und verkaufen kann
 - Als Manager möchte ich einen Standort erstellen
 - Als Manager möchte ich ein Gebäude (Objekt, Feld, Tennisplatz) erstellen und einem Standort zuordnen
 - Als Manager möchte ich einen Raum (Halle, Saal) erstellen und einem Gebäude zuordnen
