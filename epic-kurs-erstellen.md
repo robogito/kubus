@@ -5,6 +5,9 @@
 - Als Manager möchte ich benachrichtigt werden, wenn ein Standort schon belegt ist
 - Als Manager möchte ich für einen Kurs Kundengruppen mit Preisen und Belegungsanteilen definieren
 - Als Manager möchte ich für einen Kurs abhängige Angebote angeben
+- Als Manager möchte ich den Kurs stornieren
+- Als Manager möchte ich Teilnehmer des Kurses ansehen
+- Als Manager möchte ich Teilnehmer des Kurses kontaktieren
 ## Epic: Als Manager möchte ich einem Kurs Kursleiter hinzufügen, damit die Teilnehmer mehr Nutzen und Spaß haben
 - Als Manager möchte ich neue Kursleiter über E-Mail einladen
 - Als Manager möchte ich Kunden Kursleiter-Rolle zuordnen
@@ -17,3 +20,8 @@
 - Als Kursleiter möchte ich meine Qualifikationsnachweise als Bild oder PDF hochladen
 - Als Kursleiter möchte ich, dass ich über die Auftragsvergabe informiert werde
 - Als Kursleiter möchte ich einen Auftrag annehmen, Änderungswünsche mitteilen oder ablehnen
+- Als Kursleiter möchte ich von mir geleitete Kurse und Teilnehmer ansehen
+- Als Kursleiter möchte ich Teilnehmer meiner Kurse kontaktieren
+- Als Teilnehmer möchte ich mich über den Kursleiter (Name, Qualifikation) informieren
+- Als Teilnehmer möchte ich den Kursleiter meines Kurses kontaktieren
+- Als Teilnehmer möchte ich den Kursleiter bewerten
