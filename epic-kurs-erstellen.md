@@ -1,11 +1,12 @@
 ## Epic: Als Manager möchte ich ein Kursangebot erstellen, damit ich es den Teilnehmern anbieten kann
 - Als Manager möchte ich einen Kurs für eine bestimmte Sportart erstellen oder kopieren
+- Als Manager möchte ich die Bezeichnung des Kurses in mehreren Sprachen eingeben
 - Als Manager möchte ich einem Kurs Buchnugszeitraum und Laufzeit definieren
 - Als Manager möchte ich für einen Kurs Termine an bestimmten Standorten definieren
-- Als Manager möchte ich benachrichtigt werden, wenn ein Standort schon belegt ist
+- Als Manager möchte ich bei der Termineingabe benachrichtigt werden, wenn ein Standort schon belegt ist
 - Als Manager möchte ich für einen Kurs Kundengruppen mit Preisen und Belegungsanteilen definieren
 - Als Manager möchte ich für einen Kurs abhängige Angebote angeben
-- Als Manager möchte ich den Kurs stornieren
+- Als Manager möchte ich den Kurs online oder offline schalten und stornieren
 - Als Manager möchte ich Teilnehmer des Kurses ansehen
 - Als Manager möchte ich Teilnehmer des Kurses kontaktieren
 ## Epic: Als Manager möchte ich einem Kurs Kursleiter hinzufügen, damit die Teilnehmer mehr Nutzen und Spaß haben
