@@ -2,9 +2,10 @@
 - Als Manager möchte ich einen Standort erstellen
 - Als Manager möchte ich ein Gebäude (Objekt, Feld, Tennisplatz) erstellen und einem Standort zuordnen
 - Als Manager möchte ich einen Raum (Halle, Saal) erstellen und einem Gebäude zuordnen
-- Als Manager möchte ich eine Liste der Standorte anzeigen
+- Als Manager möchte ich eine Liste der Standorte, Gebäude und Räume anzeigen
 - Als Manager möchte ich einem Standort, Gebäude oder Raum eine Zugangskontrolle zuordnen
 - Als Manager möchte ich den Belegungsplan eines Standorts, Gebäude oder Raums anzeigen und ausdrucken
+- Als Manager möchte ich den Terminstandort allen Interessenten so anzeigen, dass er schnell gefunden wird
 
 ### Standort
 Ein Standort ist eine Location mit Adresse. 
