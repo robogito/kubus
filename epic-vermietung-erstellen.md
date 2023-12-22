@@ -15,5 +15,5 @@
 - Als Teilnehmer möchte ich, dass ich und meine Sportpartner die Zugangkontrollen passieren
 - Als Teilnehmer möchte ich meine Buchung stornieren können
 
-### Vermietung
-Wir vermieten unsere Sportobjekte (Tennisplätze) stundenweise. Auf Buchungszeitraum kann eventuell verzichtet werden, weil die Tage der Vorausbuchung angegeben werden müssen. Feiertage müssen berücksichtigt werden. Die Vermietung kann von einem Teilnehmer gebucht werden, der Teilnehmer bekommt dann etnsprechende der Kapazität Anzahl der Tickets, damit seine Sportpartner auch Zugang zur Sportstätte haben.
+### Prozessbeschreibung
+Wir vermieten unsere Sportobjekte (Tennisplätze) stundenweise. Auf Buchungszeitraum kann eventuell verzichtet werden, weil die Tage der Vorausbuchung angegeben werden müssen. Feiertage müssen berücksichtigt werden (Einstellungen). Die Vermietung kann von einem Teilnehmer gebucht werden, der Teilnehmer bekommt dann der Kapazität etnsprechende Anzahl der Tickets, damit seine Sportpartner auch Zugang zur Sportstätte haben.
