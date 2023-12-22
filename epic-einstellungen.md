@@ -1,0 +1,12 @@
+## Als Admin oder Manager möchte ich Einstellungen im System haben, damit ich die Daten auswählen kann und nicht immer wieder eingeben muss
+- Als Admin möchte ich Systemeinstellungen eingeben
+- Als Admin möchte ich Zutrittskontrollen eingeben und einbinden
+- Als Admin möchte ich Vorlagen für E-Mails und druckbare Dokumente erstellen
+- Als Manager möchte ich Produktkategorien für Kurse und Verträge mehrsprachig eingeben
+- Als Manager möchte ich Buchungszeiträume und Zeiten eingeben
+- Als Manager möchte ich Angebotszeiträume (auch Semesterzeitraum genannt) eingeben
+- Als Manager möchte ich Feiertage eingeben
+- Als Manager möchte ich Kontonummen für Einnahmen und Ausgaben eingeben
+- Als Manager möchte ich PSP-Elemente für SAP eingeben
+- Als Manager möchte ich Teilnehmer-Statusgruppen (Kundengruppen) mehrsprachig eingeben
+- Als Manager möchte ich Inhalte (Webseiten und Menüs) mehrsprachig erstellen
