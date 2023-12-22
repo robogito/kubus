@@ -8,6 +8,7 @@
 - Als Manager möchte ich für einen Kurs abhängige Angebote angeben
 - Als Manager möchte ich für einen Kurs Passwortschutz einrichten
 - Als Manager möchte ich den Kurs online oder offline schalten und stornieren
+- Als Manager möchte ich, dass alle Aufträge eines stornierten Kurses automatisch storniert werden
 - Als Manager möchte ich Teilnehmer des Kurses ansehen
 - Als Manager möchte ich Teilnehmer in der Warteliste des Kurses ansehen
 - Als Manager möchte ich Teilnehmer des Kurses kontaktieren
@@ -20,6 +21,7 @@
 - Als Manager möchte ich für einen Kursleiter Qualifikationsnachweise anlegen
 - Als Manager möchte ich hochgeladene Dokumente eines Kursleiters herunterladen und löschen
 - Als Manager möchte ich für einen Kurs an die Kursleiter Aufträge vergeben
+- Als Manager möchte ich Aufträge eines Kurses stornieren
 - Als Manager möchte ich Aufträge eines Kurses anzeigen
 - Als Manager möchte ich einen oder alle Kursleiter über die Auftragsvergabe informieren
 - Als Manager möchte ich, dass der Kursleiter auf die Auftragsvergabe reagiert (angenommen, Änderungen gewünscht, abgelehnt)
@@ -27,7 +29,7 @@
 - Als Kursleiter möchte ich mich mein Vertrag im System einsehen und herunterladen
 - Als Kursleiter möchte ich mich meine Qualifikationsnachweise im System einsehen
 - Als Kursleiter möchte ich meine Dokumente als Bild oder PDF hochladen
-- Als Kursleiter möchte ich, dass ich über die Auftragsvergabe informiert werde
+- Als Kursleiter möchte ich, dass ich über die Auftragsvergabe oder Stornierung informiert werde
 - Als Kursleiter möchte ich einen Auftrag annehmen, Änderungswünsche mitteilen oder ablehnen
 - Als Kursleiter möchte ich von mir geleitete Kurse und Teilnehmer ansehen
 - Als Kursleiter möchte ich Teilnehmer meiner Kurse kontaktieren
