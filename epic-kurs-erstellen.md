@@ -12,6 +12,7 @@
 - Als Manager möchte ich Teilnehmer in der Warteliste des Kurses ansehen
 - Als Manager möchte ich Teilnehmer des Kurses kontaktieren
 - Als Manager möchte ich Listen aller Kurse, Verträge und Aufträge ansehen
+- Als Manager möchte ich informiert werden, wenn ein Kurs am Starttag keine Buchungen hat, damit ich den stornieren kann
 ## Epic: Als Manager möchte ich einem Kurs Kursleiter hinzufügen, damit die Teilnehmer betreut, angewiesen und beaufsichtigt werden
 - Als Manager möchte ich neue Kursleiter über E-Mail einladen
 - Als Manager möchte ich Kunden Kursleiter-Rolle zuordnen
