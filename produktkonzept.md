@@ -18,16 +18,16 @@ Das neue Produkt soll ein modernes, benutzerfreundliches System werden, dass Vor
 
 ### Systemaufbau
 - Benutzerverwaltung
-- Einstellungen
-- Einrichtungen (Sportstätten)
+- [Einstellungen](https://github.com/robogito/kubus/blob/main/epic-einstellungen.md)
+- [Einrichtungen](https://github.com/robogito/kubus/blob/main/epic-einrichtung-erstellen.md) (Sportstätten)
 - Belegungspläne der Einrichtungen
 - Produktkategorien (Sportarten)
-- Kurse
+- [Kurse](https://github.com/robogito/kubus/blob/main/epic-kurs-erstellen.md)
 - Kursleiter
 - Verträge & Aufträge, Stundenabrechnungen der Kursleiter
 - Teilnehmer
 - Abos
-- Vermietungen
+- [Vermietungen](https://github.com/robogito/kubus/blob/main/epic-vermietung-erstellen.md)
 - Finanzen
 - Berichte
 - Sportpartnerbörse
