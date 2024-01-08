@@ -18,7 +18,7 @@ Nutzerprofil soll folgende Felder haben:
 -	Finanzamt
 
 **Unterschriftsverwaltung**  
-Wir setzen keine Unterschrift im System ein. Fragen, ob es gewünscht wird. Zukunftig sollen Verträge nur digital übermittelt und akzeptiert werden - von beiden Seiten werden keine Unterschriften benötigt.
+Wir setzen keine Unterschrift im System ein. Fragen, ob es gewünscht wird.
 
 **Vertragsvorlagen**  
 Wir haben folgende Vorlagen:
@@ -30,4 +30,8 @@ Wir haben folgende Vorlagen:
 Aufträge dürfen nur an Kursleiter mit Verträgen vergeben werden. Sonst keine Grundlage für Stundenabrechnung.
 
 **Vertragsaufhebungen**  
-Verträge werden momentan manuell gekündigt. Automatisierung (wenn gewünscht) ist denkbar - wir haben keine unbefristeten Verträge, soll aber frühzeitig sichtbar (Email, Dashboard, Vertragsübersicht) angekündigt werden.
+Verträge werden momentan manuell von beiden Seiten gekündigt. Automatisierung (wenn gewünscht) ist denkbar - wir haben keine unbefristeten Verträge, soll aber frühzeitig sichtbar (Email, Dashboard, Vertragsübersicht) angekündigt werden. Der Kursleiter soll in seinem Profil den Vertrag kündigen können.
+
+> **Zukunft** 🚀  
+> Ein Vertrag hat folgende wichtige Daten: Sportart und Honorar. Sportart hilft uns bei der Kursgestaltung, Honorar wird dabei aus dem Vertrag (oder Vertragsänderung) übernommen. Der Vertrag wird erst dann gültig, wenn ein Auftrag vergeben und übernommen wird.
+> Zukunftig (weitere Digitalisierung, ggf. Zustimmung der Verwaltung erforderlich) sollen Verträge nur digital übermittelt und akzeptiert werden - von beiden Seiten werden keine Unterschriften benötigt.
